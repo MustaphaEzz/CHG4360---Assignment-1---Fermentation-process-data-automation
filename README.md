@@ -41,7 +41,7 @@ The outside rannge points are marked with a red X
 ## Summary Table
 
 |batch_id|ph optimal+percent|temperature_optimal percent|C_product [g/L]|
-|  ------|--------|------------------|---------------------------|---------------|
+|------|--------|------------------|---------------------------|---------------|
 |1       |93.81   |97.94             |46.5                       |               |
 |2       |96.69   |97.52             |50.8                       |               |
 |3       |95.89   |93.15             |44.6                       |               |
