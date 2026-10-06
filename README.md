@@ -40,16 +40,14 @@ The outside rannge points are marked with a red X
 
 ## Summary Table
 
-|batch_id|ph optimal+percent|temperature_optimal percent|C_product [g/L]|
-|------|--------|------------------|---------------------------|---------------|
-|1       |93.81   |97.94             |46.5                       |               |
-|2       |96.69   |97.52             |50.8                       |               |
-|3       |95.89   |93.15             |44.6                       |               |
-|4       |100.0   |96.47             |48.6                       |               |
-|5       |48.62   |99.08             |24.7                       |               |
-
-
-
+|batch_id|ph optimal %|temperature_optimal%|C_product [g/L]|
+|--------|------------|--------------------|---------------|
+|1       |93.81       |97.94               |46.5           |
+|2       |96.69       |97.52               |50.8           |
+|3       |95.89       |93.15               |44.6           |
+|4       |100.0       |96.47               |48.6           |
+|5       |48.62       |99.08               |24.7           |
+          |
 
 Summary table for mode A
 This table reports the percentage of pH and temperature that fall within their specified operating ranges for each batch. 
